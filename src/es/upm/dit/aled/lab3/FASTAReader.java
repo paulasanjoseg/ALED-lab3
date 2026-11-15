@@ -199,5 +199,5 @@ public class FASTAReader {
 			System.out.println("No he encontrado : " + args[1] + " en ningun sitio");
 		System.out.println("Tiempo total: " + (System.nanoTime() - t1));
 	}
-	//terminar de implementar los métodos de la práctica
+	//terminar de implementar los métodos de la práctica y mirar las soluciones
 }
